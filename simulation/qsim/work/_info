@@ -1,0 +1,194 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/brunoclaudino/intelFPGA_lite/18.0/ProcessadorAgamotto/simulation/qsim
+Ereg_ual_saida
+Z1 w1543846640
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 PDz30Zoj;e1JEj1l7dCiT1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 O_kVZAFaN7XDl67flUT[n1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ;`SHL]^j4UaADA9ENAN^]0
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 Dg`GWTC`^Q8GNSMPeo22;3
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _LNC5n6B?5VN@W;M4Dg@k1
+R0
+Z11 8ProcessadorAgamotto.vho
+Z12 FProcessadorAgamotto.vho
+l0
+L38
+VfaU:Y7DK4FhjfUT1mf?>i2
+!s100 m>cM:`E<=DkiHV2@We^2L0
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1543846644
+!i10b 1
+Z15 !s108 1543846643.000000
+Z16 !s90 -work|work|ProcessadorAgamotto.vho|
+Z17 !s107 ProcessadorAgamotto.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 13 reg_ual_saida 0 22 faU:Y7DK4FhjfUT1mf?>i2
+l109
+L46
+VRdf@aGf8]YNVh@`?n`TFn0
+!s100 >=QAfM:aCa_T@HHnE9nnA3
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Ereg_ual_saida_vhd_vec_tst
+Z20 w1543846638
+R8
+R9
+R0
+Z21 8Waveform.vwf.vht
+Z22 FWaveform.vwf.vht
+l0
+L31
+VfzDca@2TM2EW5QKQAdF7U1
+!s100 Ha9aYol0B_C9F[B^d;J=i2
+R13
+32
+R14
+!i10b 1
+Z23 !s108 1543846644.000000
+Z24 !s90 -work|work|Waveform.vwf.vht|
+Z25 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Areg_ual_saida_arch
+R8
+R9
+DEx4 work 25 reg_ual_saida_vhd_vec_tst 0 22 fzDca@2TM2EW5QKQAdF7U1
+l46
+L33
+V_O>U^46E?<z7]aKTNToQh1
+!s100 ETA^9aiMgKU3n?E00>kzU3
+R13
+32
+R14
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R18
+R19
+Eregistradordedadosdamem
+Z26 w1543879321
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R0
+R11
+R12
+l0
+L38
+V32V7=^X23FLOPV2h>PZ2^1
+!s100 b2@V69F3fR:SmZA7dTS5U3
+R13
+32
+Z27 !s110 1543879322
+!i10b 1
+Z28 !s108 1543879322.000000
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 23 registradordedadosdamem 0 22 32V7=^X23FLOPV2h>PZ2^1
+l109
+L46
+V;HM[:LgC=mEFek]CN5M^D2
+!s100 0[>??L4k4ReHVQ:7c?dUE2
+R13
+32
+R27
+!i10b 1
+R28
+R16
+R17
+!i113 1
+R18
+R19
+Eregistradordedadosdamem_vhd_vec_tst
+Z29 w1543879320
+R8
+R9
+R0
+R21
+R22
+l0
+L31
+Vn3>Q4H4H=MIcDzd_hKdfB1
+!s100 DHFdFK9X5U5_?GVgYd63F3
+R13
+32
+R27
+!i10b 1
+R28
+R24
+R25
+!i113 1
+R18
+R19
+Aregistradordedadosdamem_arch
+R8
+R9
+Z30 DEx4 work 35 registradordedadosdamem_vhd_vec_tst 0 22 n3>Q4H4H=MIcDzd_hKdfB1
+l46
+L33
+Vo^z`ogIKVnCQOd>b0o<@`3
+!s100 lBXXab3VNP`Ja=A5aI5Q42
+R13
+32
+R27
+!i10b 1
+R28
+R24
+R25
+!i113 1
+R18
+R19
